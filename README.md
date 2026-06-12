@@ -16,6 +16,14 @@ The dashboard provides a holistic view of business performance, featuring dynami
 
 ---
 
+📈 Key Findings from the Dataset
+
+Top Revenue Source: Bikes make up the vast majority of company costs and revenue, with Road Bikes leading the sub-categories at over $23M.
+
+Primary Market: The United States represents the largest market share, bringing in 33% of total revenue.
+
+Core Customer Base: The Adults (35-64) age group generated the highest revenue (~$42.5M), making them the ideal target for future marketing campaigns.
+
 ## 🛠️ Features & Functionalities
 
 * **Dynamic Slicers:** Seamlessly filter the entire dashboard by specific dates or geographic regions.
